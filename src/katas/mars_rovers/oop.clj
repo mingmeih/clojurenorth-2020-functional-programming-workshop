@@ -70,7 +70,7 @@
   (go!
     {:plateau [5 5]
      :rovers [{:position [1 2 :N]
-              :instructions [:M] }]})
+               :instructions [:M] }]})
 
   (go!
     {:plateau [5 5]
